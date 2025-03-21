@@ -17,7 +17,7 @@
 - 🛠️ Contributing to **Oppia, AOSSIE, pandas & NumFOCUS**
 - 🎯 Focus Areas: **AI, Machine Learning, Web Dev, Data Science**
 - 🏆 Open Source | Full Stack | Hackathons | Cloud | API Dev
-- 📬 Reach me at: utkarshyadav0825[at]gmail[dot]com
+- 📬 Reach me at: uky.utkarsh0825@gmail.com
 
 
 ---
