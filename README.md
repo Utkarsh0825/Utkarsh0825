@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAFunK7yJxk/yurs9LeVQD7p-BH8l_TDjA/edit" alt="GitHub Banner" width="100%">
+  <img src="https://www.canva.com/design/DAFunK7yJxk/yurs9LeVQD7p-BH8l_TDjA/edit" width="100%">
 </p>
 
 <h1 align="center">Hey there, I'm Utkarsh 👋</h1>
