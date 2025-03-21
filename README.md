@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAFunK7yJxk/yurs9LeVQD7p-BH8l_TDjA/edit" width="100%">
+  <img src="https://github.com/Utkarsh0825/Utkarsh0825/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" width="100%">
 </p>
 
 <h1 align="center">Hey there, I'm Utkarsh 👋</h1>
