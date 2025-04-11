@@ -71,19 +71,12 @@ An AI bot developed for Caterpal Technology to enhance customer interaction and 
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Utkarsh0825&theme=monokai" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ut-karsh/)
-- [Portfolio](https://utkarsh0825.github.io/Portfolio/) *(Update with your actual portfolio link)*
-- [LeetCode](https://leetcode.com/u/utkarshyadav0825/) *(If available)*
+- [Portfolio](https://utkarsh0825.github.io/Portfolio/) 
+- [LeetCode](https://leetcode.com/u/utkarshyadav0825/) 
 
 ---
 
