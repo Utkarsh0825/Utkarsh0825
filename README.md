@@ -23,7 +23,7 @@
 - **Languages**: Python, JavaScript, Java, SQL
 - **Frameworks/Libraries**: React, Node.js, Streamlit, Express.js
 - **Databases**: MySQL, MongoDB
-- **Cloud Platforms**: AWS (EC2, S3, Lambda)
+- **Cloud Platforms**: AWS
 - **Tools & Technologies**: Git, Docker, Kubernetes, Jenkins, Tableau
 
 ---
@@ -31,7 +31,7 @@
 ### 📜 Certifications
 
 - ✅ **AWS Certified Solutions Architect – Associate**
-- ✅ [Include other relevant certifications here]
+- ✅ **AWS Certified Cloud Practitioner - Foundational**
 
 ---
 
@@ -45,17 +45,17 @@ An AI-driven sentiment analysis tool that interprets user emotions from textual 
 #### [FitWise](https://github.com/Utkarsh0825/FitWise)
 An AI-based hiring platform streamlining recruitment processes.
 
-#### [Augmented Reality Applications](https://github.com/Utkarsh0825/AR-Projects)
-Developed using Unity 3D and Vuforia SDK to create immersive AR experiences.
+#### [Object Detection Project](https://github.com/Utkarsh0825/Object-Detection-Project)
+Implemented an object detection system for identifying products on shelves using the Faster R-CNN model from PyTorch and OpenCV for image pre-processing.
 
-#### [LinkedIn Automation Bots](https://github.com/Utkarsh0825/LinkedIn-Automation)
-Python scripts automating LinkedIn tasks using Selenium.
+#### [Blur WhatsApp Chats Extension](https://github.com/Utkarsh0825/Blur-Whatsapp-Chats-Extension-)
+A Chrome extension that adds a privacy lock feature to WhatsApp Web by blurring chats and media, ensuring sensitive information remains private.
 
-#### [Tableau Projects](https://github.com/Utkarsh0825/Tableau-Visualizations)
-Data visualization and analytics projects using Tableau.
+#### [AiBot](https://github.com/Utkarsh0825/AiBot)
+An AI-powered chatbot application developed using Python and HTML, designed to assist users with various queries.
 
-#### [Camunda Projects](https://github.com/Utkarsh0825/Camunda-Workflows)
-Workflow automation examples utilizing Camunda BPM.
+#### [Caterpal Technology AI Bot](https://github.com/Utkarsh0825/Caterpal-Technology-Ai-Bot)
+An AI bot developed for Caterpal Technology to enhance customer interaction and support services.
 
 *Each repository includes detailed documentation, installation guides, and usage examples.*
 
@@ -82,8 +82,8 @@ Workflow automation examples utilizing Camunda BPM.
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ut-karsh/)
-- [Portfolio](https://yourportfolio.com/) *(Update with your actual portfolio link)*
-- [LeetCode](https://leetcode.com/Utkarsh0825/) *(If available)*
+- [Portfolio](https://utkarsh0825.github.io/Portfolio/) *(Update with your actual portfolio link)*
+- [LeetCode](https://leetcode.com/u/utkarshyadav0825/) *(If available)*
 
 ---
 
